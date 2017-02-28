@@ -1,0 +1,10 @@
+<svg id="cat" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 492.3 430.12">
+  <title>cat</title>
+  <line x1="74.61" y1="275.12" x2="2.61" y2="231.12" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+  <line x1="94.61" y1="321.12" x2="16.61" y2="370.12" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+  <line x1="428.61" y1="274.12" x2="489.61" y2="235.12" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+  <line x1="417.61" y1="320.12" x2="482.61" y2="371.12" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"/>
+  <polygon points="59.9 6.5 79.98 144.08 189.08 57.9 59.9 6.5"/>
+  <polygon points="411.51 0 289.41 66.49 408.04 138.99 411.51 0"/>
+  <path d="M250.5,95C143.08,95,56,182.08,56,289.5S143.08,484,250.5,484,445,396.92,445,289.5,357.92,95,250.5,95Zm-90,182A32.5,32.5,0,1,1,193,244.5,32.5,32.5,0,0,1,160.5,277Zm164,0A32.5,32.5,0,1,1,357,244.5,32.5,32.5,0,0,1,324.5,277Z" transform="translate(-6.39 -53.88)"/>
+</svg>

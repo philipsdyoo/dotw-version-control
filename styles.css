@@ -1,0 +1,26 @@
+body {
+	background-color: #aaa;
+	color: #333;
+}
+p {
+	font-size: 2em;
+}
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+li {
+	float: left;
+	width: 30%;
+	font-size: 2em;
+}
+p > .pet-icon {
+	fill: black;
+	width: 1em;
+	height: 1em;
+}
+.pet-icon {
+	fill: blue;
+	width: 2em;
+	height: 2em;
+}
